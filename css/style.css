@@ -1,0 +1,13 @@
+.ekantor{width:30px;height:30px;margin-top:0 !important;margin-bottom: 0 !important;margin-left: 0 !important;margin-right: 0 !important;}
+
+#currency-table-bottom{text-align: left;font-size:10px;margin-top:0px;}
+#subtable-kw_ekantor_table, #subtable-kw_ekantor_table td{border:0px !important;padding:0;margin:0;vertical-align: middle !important;}
+#table_counter{font-weight:bold;}
+.kw_ekantor_table {min-width:300px;width:100%;}
+.flag{width:25px;height:18px;float:left;vertical-align:middle;margin-top:1.5% !important;margin-bottom: 0 !important;margin-left: 0 !important;margin-right: 5px !important;}
+#toplevel_page_kursy-walut-ekantorpl img{margin-top:-6px;}
+
+#kw_flag_eur{background: url('../img/eur.jpg');background-size: 25px 18px;}
+#kw_flag_usd{background: url('../img/usd.jpg');background-size: 25px 18px;}
+#kw_flag_chf{background: url('../img/chf.jpg');background-size: 25px 18px;}
+#kw_flag_gbp{background: url('../img/gbp.jpg');background-size: 25px 18px;}
